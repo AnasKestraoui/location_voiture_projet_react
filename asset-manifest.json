@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/location_voiture_projet_react/static/css/main.0ea00d87.css",
+    "main.js": "/location_voiture_projet_react/static/js/main.924f5a29.js",
+    "static/js/787.aa7cf305.chunk.js": "/location_voiture_projet_react/static/js/787.aa7cf305.chunk.js",
+    "static/media/background.jpg": "/location_voiture_projet_react/static/media/background.f506544550a32e0f294c.jpg",
+    "index.html": "/location_voiture_projet_react/index.html",
+    "main.0ea00d87.css.map": "/location_voiture_projet_react/static/css/main.0ea00d87.css.map",
+    "main.924f5a29.js.map": "/location_voiture_projet_react/static/js/main.924f5a29.js.map",
+    "787.aa7cf305.chunk.js.map": "/location_voiture_projet_react/static/js/787.aa7cf305.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ea00d87.css",
+    "static/js/main.924f5a29.js"
+  ]
+}
