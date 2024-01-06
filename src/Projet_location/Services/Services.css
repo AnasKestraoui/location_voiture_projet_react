@@ -1,0 +1,21 @@
+#card{
+    margin-top: 20%;
+    z-index: 0;
+}
+
+
+.prix{
+    color: red;
+    padding-left: 10%;
+}
+
+
+.DH{
+    color: gray;
+    padding-left: 2%;
+}
+
+
+.Month{
+    color: grey;
+}
